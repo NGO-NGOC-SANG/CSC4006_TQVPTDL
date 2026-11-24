@@ -1,0 +1,9 @@
+streamlit>=1.40
+pandas>=2.0
+plotly>=5.20
+numpy
+matplotlib
+seaborn
+jinja2
+nbformat
+ipykernel

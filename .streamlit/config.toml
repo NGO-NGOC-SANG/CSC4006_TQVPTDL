@@ -1,0 +1,4 @@
+[client]
+# Ẩn menu tự sinh từ thư mục pages/ (tên file không dấu);
+# menu tiếng Việt được dựng trong utils.setup_page()
+showSidebarNavigation = false
